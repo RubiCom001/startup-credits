@@ -48,7 +48,7 @@ offers:
     access:
       availability: public
       method: contact
-      instructions: Email support@orq.ai to apply for a startup discount.
+      instructions: Apply using the contact address in the Discounts section of the pricing page.
       url: https://orq.ai/pricing
     terms_url: https://orq.ai/pricing
     source_ids:
