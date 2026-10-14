@@ -38,24 +38,10 @@ offers:
         description: The pricing page does not establish separate consideration for the discount.
     eligibility:
       rule:
-        kind: any
-        rules:
-          - criterion_id: cri_01
-            kind: manual
-            reason: vendor-discretion
-            statement: Applicant is a startup.
-          - criterion_id: cri_02
-            kind: manual
-            reason: vendor-discretion
-            statement: Applicant is an educational user.
-          - criterion_id: cri_03
-            kind: manual
-            reason: vendor-discretion
-            statement: Applicant is a nonprofit.
-          - criterion_id: cri_04
-            kind: manual
-            reason: vendor-discretion
-            statement: Applicant is an open-source project.
+        criterion_id: cri_01
+        kind: manual
+        reason: vendor-discretion
+        statement: Orq.ai asks applicants to contact support for a tailored proposal; the page does not publish detailed eligibility requirements.
     roles:
       terms_authority_entity_id: ent_01m4wph20qzmpgkv56knhtf5hw
       access_operator_entity_id: ent_01m4wph20qzmpgkv56knhtf5hw
