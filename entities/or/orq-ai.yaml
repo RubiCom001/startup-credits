@@ -24,7 +24,7 @@ offers:
     offer_slug: early-stage-startup-discount
     offer_slug_aliases: []
     title: Early-stage startup pricing discount
-    summary: Early-stage startups building their first product can contact Orq.ai for a pricing discount. The public page does not specify a discount amount or duration.
+    summary: Startups can ask Orq.ai for a tailored discount proposal. The public page does not specify a discount amount or duration.
     lifecycle:
       status: active
       effective_from: 2026-10-14T07:55:14.328Z
@@ -41,15 +41,13 @@ offers:
         criterion_id: cri_01
         kind: manual
         reason: vendor-discretion
-        statement: Applicant is an early-stage startup building its first product.
+        statement: Startups may apply for a discount; Orq.ai prepares a tailored proposal for the organization.
     roles:
       terms_authority_entity_id: ent_01m4wph20qzmpgkv56knhtf5hw
       access_operator_entity_id: ent_01m4wph20qzmpgkv56knhtf5hw
     access:
-      availability: public
+      availability: other
       method: contact
-      instructions: Apply using the contact address in the Discounts section of the pricing page.
-      url: https://orq.ai/pricing
-    terms_url: https://orq.ai/pricing
+      instructions: Request a tailored discount proposal through the support contact published in the Discounts section of the pricing page.
     source_ids:
       - src_57fdba8a4d32abbe01d7ffa20bcf1e3b5619e688d187282f8f718b86e5b18d9d
